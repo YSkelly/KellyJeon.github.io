@@ -2,6 +2,7 @@
 layout: post 
 title: "깃헙 블로그"
 date: 2019-05-16
+categories: jekyll update
 ---
 
 
