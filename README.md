@@ -1,1 +1,1 @@
-# KellyJeon.github.io
+# kellyjeon.github.io
