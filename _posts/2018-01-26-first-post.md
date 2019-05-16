@@ -3,4 +3,7 @@ layout: post
 title: "깃헙 블로그"
 date: 2019-05-16
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site 
+
+
+안녕하세요. 여기는 예슬이의 깃헙 블로그 입니다. 
+통계 블로그로 사용될 예정입니다. 지금은 간단한 Test 중 
