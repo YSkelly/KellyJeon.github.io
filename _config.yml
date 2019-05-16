@@ -109,11 +109,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Jeon,Ye-Seul (Kelly)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  location         : "Seoul"
+  email            : "jeosn9677@daumsoft.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
