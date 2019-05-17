@@ -110,7 +110,7 @@ analytics:
 # Site Author
 author:
   name             : "Jeon,Ye-Seul"
-  avatar           : "C:/Users/seul/Desktop/새 폴더/사진/예슬" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "C:/Users/seul/Desktop/새 폴더/사진/예슬/셀피2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : "Seoul"
   email            : "jeosn9677@daumsoft.com"
