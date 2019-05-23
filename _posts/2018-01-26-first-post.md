@@ -1,6 +1,7 @@
 ---
 layout: post 
 title: "깃헙 블로그"
+categories: [Today's Statistical Question]
 ---
 
 
