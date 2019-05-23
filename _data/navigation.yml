@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "Topology Data Analysis"
-    url: 
+    url: /TDA/
   - title: "Today's Statistical Question"
-    url: 
-  - title: "In Applied Statistical Studies"
-    url: 
+    url: /TSQ/
+  - title: "Applied Statistical Studies"
+    url: /ASS/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
