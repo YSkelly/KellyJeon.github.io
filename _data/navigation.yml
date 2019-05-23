@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Topology Data Analysis"
-    url: /_posts/tda/
+    url: /posts/tda/
   - title: "Today's Statistical Question"
     url: 
   - title: "In Applied Statistical Studies"
