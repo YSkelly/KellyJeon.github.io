@@ -6,7 +6,7 @@ main:
     url: /TSQ/
   - title: "Applied Statistical Studies"
     url: /ASS/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+   - title: "Archive"
+     url: /year-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
