@@ -1,12 +1,12 @@
 # main links
 main:
-#  - title: "Topology Data Analysis"
-#    url: /TDA/
-#  - title: "Today's Statistical Question"
-#    url: /TSQ/
-#  - title: "Applied Statistical Studies"
-#    url: /ASS/
- - title: "Archive"
-    url: /year-archive/
-  - title: "Category"
-    url: /categories/
+  - title: "Topology Data Analysis"
+    url: /TDA/
+  - title: "Today's Statistical Question"
+    url: /TSQ/
+  - title: "Applied Statistical Studies"
+    url: /ASS/
+# - title: "Archive"
+#    url: /year-archive/
+#  - title: "Category"
+#    url: /categories/
